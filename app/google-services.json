@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "229048139979",
+    "firebase_url": "https://smart-home-d6ddd.firebaseio.com",
+    "project_id": "smart-home-d6ddd",
+    "storage_bucket": "smart-home-d6ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229048139979:android:7782e6b74476e168",
+        "android_client_info": {
+          "package_name": "com.example.safdar.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229048139979-c8ni0i2iol2bjirtobe5tg6c4rfbf4il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safdar.smarthome",
+            "certificate_hash": "d9726e8a707f6287238aa4d3a79a2889b8e7531b"
+          }
+        },
+        {
+          "client_id": "229048139979-fh8tfdni29f2477pi964uti28bjtdbmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7esLSDC8D6pPDqvPnjZVzxeYJ96ay4R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229048139979-fh8tfdni29f2477pi964uti28bjtdbmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229048139979:android:ba8d9cb0924bbd31",
+        "android_client_info": {
+          "package_name": "com.example.smarthomesurveillance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229048139979-pumgi8d3glavpm0ik3qd7usa9u6vsncp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthomesurveillance",
+            "certificate_hash": "42c8e7f96bf54a0e4bbc113bc0614a2228dfc617"
+          }
+        },
+        {
+          "client_id": "229048139979-fh8tfdni29f2477pi964uti28bjtdbmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7esLSDC8D6pPDqvPnjZVzxeYJ96ay4R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229048139979-fh8tfdni29f2477pi964uti28bjtdbmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
